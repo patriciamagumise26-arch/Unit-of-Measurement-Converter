@@ -36,10 +36,6 @@ How to Use (Python Version)
 Option 1: Run the Python Script
 1. Clone the repository:
   
-   git clone https://github.com/patriciamagumise26-arch/Unit-Converter.git
-   cd Unit-Converter
-   
-
 2. Ensure Python is installed:
    
    python --version
