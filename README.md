@@ -58,7 +58,7 @@ Option 2: Use the Windows Executable
    
  Example Usage
 
---- Unit Converter ---
+Unit of Measurement Converter
 Enter starting unit (feet, yards, inches): feet
 Enter unit to convert to:  yards
 Enter measurement in feet: 6
@@ -71,7 +71,7 @@ Windows EXE [Download](Unit_of_measurement.exe) Windows only
 Technologies
 
 Web Version: HTML5, CSS3, JavaScript  
-Desktop Version: Python 3.x
+Desktop Version: Python 3.12
 
 
 License
@@ -81,7 +81,7 @@ This project is licensed under the MIT License
 
 Contributing
 
-Contributions, issues, and feature requests are welcome!  Feel free to check the [issues page].
+Contributions, issues, and feature requests are welcome!  Feel free to check the : https://github.com/patriciamagumise26-arch/Unit-of-Measurement-Converter/issues [issues page].
 
 
 Author
